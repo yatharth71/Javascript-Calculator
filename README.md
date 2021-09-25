@@ -10,4 +10,4 @@
 
 5. Then we have to do some Styling.
 
-                                                        Project Completed 👍!!
+                                            Project Completed 👍!!
