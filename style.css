@@ -1,0 +1,75 @@
+/* Importing Fonts */
+@import url("https://fonts.googleapis.com/css2?family=Fira+Sans:ital@1&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+}
+.result {
+  text-align: center;
+  font-family: "Fira Sans", sans-serif;
+  margin-bottom: 5em;
+}
+
+.buttons {
+  text-align: center;
+  margin-top: 4em;
+}
+
+.inputs {
+  text-align: center;
+  font-family: "Fira Sans", sans-serif;
+  font-size: x-large;
+}
+
+.inp1 {
+  display: inline;
+  margin: 1em;
+}
+
+.inp2 {
+  display: inline;
+  margin: 1em;
+}
+
+#text1 {
+  font-family: "Fira Sans", sans-serif;
+  font-size: x-large;
+}
+#text2 {
+  font-family: "Fira Sans", sans-serif;
+  font-size: x-large;
+}
+
+#add {
+  width: 200px;
+  height: 100px;
+  background-color: rgb(163, 228, 228);
+  border-radius: 15px;
+  font-family: "Fira Sans", sans-serif;
+  font-size: x-large;
+}
+#subtract {
+  width: 200px;
+  height: 100px;
+  background-color: rgb(163, 228, 228);
+  border-radius: 15px;
+  font-family: "Fira Sans", sans-serif;
+  font-size: x-large;
+}
+#divide {
+  width: 200px;
+  height: 100px;
+  background-color: rgb(163, 228, 228);
+  border-radius: 15px;
+  font-family: "Fira Sans", sans-serif;
+  font-size: x-large;
+}
+#multiply {
+  width: 200px;
+  height: 100px;
+  background-color: rgb(163, 228, 228);
+  border-radius: 15px;
+  font-family: "Fira Sans", sans-serif;
+  font-size: x-large;
+}
