@@ -7,19 +7,23 @@
 }
 .result {
   text-align: center;
-  font-family: "Fira Sans", sans-serif;
+  font-family: monospace;
+  font-size: x-large;
   margin-bottom: 5em;
 }
 
 .buttons {
   text-align: center;
-  margin-top: 4em;
+  margin-top: 2em;
+  display: flex;
+  margin-left: 600px;
+  font-size: 50px;
 }
 
 .inputs {
   text-align: center;
-  font-family: "Fira Sans", sans-serif;
-  font-size: x-large;
+  font-family: monospace;
+  font-size:  50px;
 }
 
 .inp1 {
@@ -33,43 +37,58 @@
 }
 
 #text1 {
-  font-family: "Fira Sans", sans-serif;
-  font-size: x-large;
+  font-family: monospace;
+  font-size: 50px;
+  height: 100px;
 }
 #text2 {
-  font-family: "Fira Sans", sans-serif;
-  font-size: x-large;
+  font-family: monospace;
+  font-size: 50px;
+  height: 100px;
 }
 
 #add {
   width: 200px;
+  display: inline-block;
   height: 100px;
   background-color: rgb(163, 228, 228);
   border-radius: 15px;
-  font-family: "Fira Sans", sans-serif;
-  font-size: x-large;
+  font-family: monospace;
+  font-size:  50px;
 }
 #subtract {
   width: 200px;
+  display: inline-block;
   height: 100px;
   background-color: rgb(163, 228, 228);
   border-radius: 15px;
-  font-family: "Fira Sans", sans-serif;
-  font-size: x-large;
+  font-family: monospace;
+  font-size:  50px;
 }
 #divide {
   width: 200px;
   height: 100px;
   background-color: rgb(163, 228, 228);
   border-radius: 15px;
-  font-family: "Fira Sans", sans-serif;
-  font-size: x-large;
+  font-family: monospace;
+  font-size:  50px;
+  margin-left: 329px;
 }
 #multiply {
   width: 200px;
   height: 100px;
   background-color: rgb(163, 228, 228);
   border-radius: 15px;
-  font-family: "Fira Sans", sans-serif;
-  font-size: x-large;
+  font-family: monospace;
+  font-size:  50px;
+  margin-left: 329px;
+}
+#equal{
+  width: 200px;
+  height: 100px;
+  background-color: rgb(163, 228, 228);
+  border-radius: 15px;
+  font-family: monospace;
+  font-size:  50px;
+  margin-left: -200px;
 }
